@@ -1,1 +1,1 @@
-This is just a simple ui/ux for a food delivery app.
+This is just a simple ui for a food delivery app.
